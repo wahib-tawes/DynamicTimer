@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.start {
+  background-color: white;
+  border: 2px solid green;
+  border-radius: 5px;
+  padding: 10px 25px;
+  margin: 0 20px;
+}
+.reset {
+  background-color: white;
+  border: 2px solid blue;
+  border-radius: 5px;
+  padding: 10px 25px;
+  margin: 0 20px;
+}
+.reset:hover {
+  background-color: rgb(139, 232, 255);
+}
+.start:hover {
+  background-color: rgb(139, 255, 187);
+}

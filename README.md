@@ -1,2 +1,0 @@
-# DynamicTimer
-Created with CodeSandbox
